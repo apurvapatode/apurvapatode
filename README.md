@@ -20,4 +20,4 @@ Google Cloud Certified — Associate Cloud Engineer
 
 Send me a URL. I'll tell you what's wrong with it.
 
-[LinkedIn](https://linkedin.com/in/apurva-patode) · [Portfolio](https://scholarlify.com) · apurvapatode01@gmail.com
+[Portfolio](https://apurvapatode.vercel.app) · [LinkedIn](https://linkedin.com/in/apurva-patode) · apurvapatode01@gmail.com
